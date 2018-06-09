@@ -1,0 +1,17 @@
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\OwinPracticeSelfHost.exe.config
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\OwinPracticeSelfHost.exe
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\OwinPracticeSelfHost.pdb
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Microsoft.Owin.Diagnostics.dll
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Microsoft.Owin.dll
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Microsoft.Owin.Hosting.dll
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Owin.dll
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Microsoft.Owin.xml
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Microsoft.Owin.Diagnostics.xml
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\bin\Debug\Microsoft.Owin.Hosting.xml
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\obj\Debug\OwinPracticeSelfHost.csprojResolveAssemblyReference.cache
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\obj\Debug\OwinPracticeSelfHost.exe
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\obj\Debug\OwinPracticeSelfHost.pdb
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\obj\Debug\OwinPracticeSelfHost.csproj.CoreCompileInputs.cache
+E:\PracticeWorks\OwinPracticeSelfHost\OwinPracticeSelfHost\obj\Debug\OwinPracticeSelfHost.csproj.CopyComplete
